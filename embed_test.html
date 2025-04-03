@@ -1,10 +1,47 @@
 <!DOCTYPE html>
-<html>
-  <head>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="style.css">
     <title>Hack Central - Embed</title>
-    <style>* { font-family: Trebuchet MS; }</style>
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
-  </head>
-  <h1><center><a href="index.html" class="no-underline">Hack Central</a></center></h1>
-<iframe src="https://www.discord.com/" title="Discord Test 1"></iframe>
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            font-family: 'Trebuchet MS', sans-serif;
+            overflow: hidden;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+        }
+        h1 {
+            text-align: center;
+            margin: 1em 0;
+            padding: 0;
+            flex-shrink: 0;
+        }
+        h1 a {
+            text-decoration: none;
+            color: inherit;
+        }
+        iframe {
+            flex-grow: 1;
+            width: 100%;
+            border: none;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <h1>
+        <a href="index.html">Hack Central</a>
+    </h1>
+    <iframe src="https://ryanmadethis.minecraft.id.lv" title="Rammerhead">
+    </iframe>
+</body>
+</html>
