@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Hack Central - Virtual Machine</title>
+    <style>* { font-family: Trebuchet MS; }</style>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+<script>
+const express = require('express');
+const app = express();
+
+const allowedIPs = ['216.186.51.104']; // Example allowlist
+
+app.use((req, res, next) => {
+  const clientIP = req.ip; // Or req.headers['x-forwarded-for'] for proxied requests
+
+  if (allowedIPs.includes(clientIP)) {
+    next(); // Allow access
+  } else {
+    res.status(403).send('Access denied.'); // Deny access
+  }
+});
+
+app.get('/', (req, res) => {
+  res.send('Welcome to the protected page.');
+});
+
+app.listen(3000, () => {
+  console.log('Server listening on port 3000');
+});
+</script>
+  </head>
+  <h1><center><a href="index.html" class="no-underline">Hack Central</a></center></h1>
