@@ -7,7 +7,7 @@ Created by: @personality5124
 
 <h3>Contributors</h3>
 Thanks to Commendation3124 for providing links for the "Goofy Websites" page.
-Thanks to @Blobby Boi for creating ExtPrint3r.
+Thanks to @Blobby-Boi for creating ExtPrint3r.
 
 <h3>Credits for tools used.</h3>
 Thanks to the Replit Team for creating a website that lets me test my code easily.
