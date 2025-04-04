@@ -15,3 +15,5 @@ Thanks to Arto Bendiken for authoring the Unlicense License and saving me time.
 
 <h2>Most important:</h2>
 I know its cheesy, but thank <strong>YOU</strong> for using this website.
+
+<h7>holy shit you can use html formatting<h7>
