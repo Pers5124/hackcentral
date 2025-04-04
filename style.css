@@ -1,10 +1,13 @@
 a {
   color: cadetblue;
-}  body {
-    background-color: #333333;
-    color: #c7c7c7;
-  }
+}
+
+body {
+  background-color: #333333;
+  color: #c7c7c7;
+  font-family: "Trebuchet MS", sans-serif;
+}
+
 .no-underline {
   text-decoration: none;
-} font-family: Trebuchet MS; 
 }
