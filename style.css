@@ -18,3 +18,9 @@ body {
 .centered-header {
     text-align: center;
 }
+
+.hidden-text {
+   text-decoration: none;
+    text-align: center;
+    color: #01031d;
+}
