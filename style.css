@@ -4,9 +4,11 @@ a {
 }
 
 body {
-    background-color: #121212;
+ background-image: url("images/guest.png");
+ background-size: cover;
     color: #CBD2D9;
     font-family: "Inter", sans-serif;
+
 }
 
 .no-underline {
