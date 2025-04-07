@@ -5,8 +5,7 @@ Hack Central was created as a Google Site in 2023 with a similar goal to today. 
 <h2>Creators/Contributors</h2>
 Created by: @personality5124
 
-<h3>Contributors</h3>
-Thanks to Commendation3124 for providing links for the "Goofy Websites" page.
+<h3>(indirect) Contributors</h3>
 Thanks to @Blobby-Boi for creating ExtPrint3r.
 
 <h3>Credits for tools used.</h3>
@@ -15,5 +14,3 @@ Thanks to Arto Bendiken for authoring the Unlicense License and saving me time.
 
 <h2>Most important:</h2>
 I know its cheesy, but thank <strong>YOU</strong> for using this website.
-
-<h7>holy shit you can use html formatting<h7>
