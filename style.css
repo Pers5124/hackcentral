@@ -4,8 +4,7 @@ a {
 }
 
 body {
- background-image: url("images/bg.png");
- background-size: cover;
+ background-color: #00031e
     color: #CBD2D9;
     font-family: "Inter", sans-serif;
 
