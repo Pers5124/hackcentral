@@ -30,11 +30,11 @@ body {
 }
 
   .new-site-div {
-    border: 1px solid white;
+    border: 0.1px solid gray;
 background-color: #21233b;
   }
 
   .regular-div {
-    border: 1px solid white;
+    border: 0.1px solid gray;
 background-color: #00031e;
   }
