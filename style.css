@@ -28,13 +28,3 @@ body {
     text-align: center;
     color: #01031d;
 }
-
-  .new-site-div {
-    border: 0.1px solid gray;
-background-color: #21233b;
-  }
-
-  .regular-div {
-    border: 0.1px solid gray;
-background-color: #00031e;
-  }
