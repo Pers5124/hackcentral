@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/machines/pcx86/xsl/machine.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://pcjs.org/machines/pcx86/xsl/machine.xsl"?>
 <machine id="deskpro386" type="pcx86" border="1" pos="center" background="default" debugger="available">
 	<name pos="center">COMPAQ DeskPro 386, 4Mb RAM, IBM VGA</name>
 	<computer id="deskpro386-vga-4096k" name="COMPAQ DeskPro 386" buswidth="32"/>
