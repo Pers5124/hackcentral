@@ -12,5 +12,5 @@ Thanks to @Blobby-Boi for creating ExtPrint3r.
 Thanks to the Replit Team for creating a website that lets me test my code easily.
 Thanks to Arto Bendiken for authoring the Unlicense License and saving me time.
 
-<h2>Most important:</h2>
-I know its cheesy, but thank <strong>YOU</strong> for using this website.
+<h3>Creators:</h3>
+<p>If you didn't get credits for something on my site in here, don't dmca me to hell, just tell me on discord and i'll fix it, @xx_balls420_xx (im being deadass with that username.)</p>
